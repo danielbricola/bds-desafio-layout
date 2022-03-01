@@ -1,0 +1,29 @@
+.product-description-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-description-container h3 {
+    font-size: 18px;
+    text-align: center;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+.product-description-container p {
+    font-size: 14px;
+    font-style: italic;
+    color: #585858;
+    margin-top: 4px;
+}
+
+.product-description-container button {
+    height: 40px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #00285F;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+}
