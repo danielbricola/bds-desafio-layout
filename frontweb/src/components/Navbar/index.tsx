@@ -24,7 +24,7 @@ function Navbar() {
         </button>
 
         <div className="collapse navbar-collapse" id="dscatalog-navbar">
-          <ul className="navbar-nav offset-md-2 main-menu">
+          <ul className="navbar-nav offset-md-9 main-menu">
             <li>
               <NavLink to="/" activeClassName="active" exact>
                 HOME
