@@ -143,6 +143,7 @@
 
 @media (min-width: 1200px) {
   .home-card {
+    height: 600px;
     flex-direction: row;
     justify-content: space-around;
     padding: calc(((85vh - 480px) / 2) - 20px) 0;
